@@ -19,11 +19,12 @@ pip install -r requirements.txt
 ```
 
 # Running the tutorial
+## 1. Load the data
 ```bash
 bash bin/load_data.sh
 ```
 
-## Open in Jupyter
+## 2. Open in Jupyter
 ```bash
 jupyter notebook classification-tutorial.ipynb
 ```
